@@ -6,6 +6,7 @@ the last activities first (e.g. in reverse cronological order by week)
 # Week Mon 01/20/20 - 01/26/20
 
 * :+1: Attend monday question meeting
+* :+1: Read data center in cloud computing book
 * :+1: Create to do list on Activity 
 * :+1: Updated notebook
 * :o2: Proposed chapter 
