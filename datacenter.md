@@ -39,6 +39,8 @@ Renewal energy, also called future enegry. It derives from earth’s natural res
 
 
 
+
+
 Reference: [1]https://www.electricitylocal.com/states/illinois/northlake/
            [2]https://baxtel.com/data-center/microsoft-chicago-northlake
            [3]https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
