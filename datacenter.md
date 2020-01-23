@@ -1,6 +1,7 @@
 
 ## Microsoft Chicago Northlake Data Center 
 
+![Chicago-outside-1000](https://user-images.githubusercontent.com/42449780/73015806-b8c85600-3dea-11ea-9cda-f01e1f39d847.jpg)
 
 
 
