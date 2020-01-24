@@ -1,10 +1,10 @@
 
-###E.Multipass.1: 
+### E.Multipass.1: 
 
 **System** : OSX  
 **User**: Shihui Jiang 
 
-###E.Multipass.2:
+### E.Multipass.2:
 
 Multipass shell will open the primary instance
 
@@ -14,12 +14,12 @@ Mounted '/Users/shihuijiang' into 'primary:Home'
 Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-74-generic x86_64)
 ....
 
-###E.Multipass.3:
+### E.Multipass.3:
 
-###E.Multipass.4:
+### E.Multipass.4:
 
 
-###E.Multipass.5:
+### E.Multipass.5:
 **Image List**
 
 | Image              |      Aliases       |    Version        |   Description                    |
@@ -29,7 +29,7 @@ Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-74-generic x86_64)
 | 16.04              |      xenial        |    20200108       |  Ubuntu 16.04 LTS                |
 | 18.04              |      bionic,lts    |    20200107       |   Ubuntu 18.04 LTS               |
 
-###E.Multipass.6:
+### E.Multipass.6:
 
 to be continued...
 
