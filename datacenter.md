@@ -11,12 +11,12 @@
 
 **Introduction**
 
-The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.
-
+The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.In 2009, Microsoft spent about $500 million to build a new data center in Northlake,IL to support their increasing demand of online services.Northlake data center is one of the most powerful data center developments in the U.S.'
+This data center.[1]
 
 **Electricity Cost and Carbon Footprint** 
 
-The average commercial electricity rate in Northlake, IL is 4.05¢/kWh.[1]There are three 66 MVA electrical substations that provide a total of 198 megawatts of power.[2] 
+The average commercial electricity rate in Northlake, IL is 4.05¢/kWh.[2]There are three 66 MVA electrical substations that provide a total of 198 megawatts of power.[3] 
 
 198 megawatts * 1000 = 198000 kilowatts
 
@@ -29,11 +29,9 @@ https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-system
 
 **Renewable Energy**
 
-The world is facing carbon emission issues. With climate change and global warming,carbon emission reduction has become the top priority for technology giants. Microsoft has been playing a key role to reduce carbon emission. By 2030 Microsoft will be carbon negative, and by 2050 Microsoft will remove from the environment all the carbon the company has emitted either directly or by electrical consumption since it was founded in 1975.[3] 
+The world is facing carbon emission issues. With climate change and global warming,carbon emission reduction has become the top priority for technology giants. Microsoft has been playing a key role to reduce carbon emission. By 2030 Microsoft will be carbon negative, and by 2050 Microsoft will remove from the environment all the carbon the company has emitted either directly or by electrical consumption since it was founded in 1975.[4] 
 
-Renewal energy, also called future enegry. It derives from earth’s natural resources, such as wind, ocean,etc. Which energy is the best replacement for data centers to reduce carbon emission? I would say wind energy. It's clean, free and most readily available renewable energy source. As a clean fuel source, the usage of wind energy produces a significant reduction in air pollution and is available in abundant supply.[4] Most notably, this form of power is one of the lowest-priced, renewable energy technologies available today, costing users only four to six cents per kilowatt-hour.[4] Although, wind energy might not suitable for all data centers based on location, weather and capacity. 
-
-
+Renewal energy, also called future enegry. It derives from earth’s natural resources, such as wind, ocean,etc. Which energy is the best replacement for data centers to reduce carbon emission? I would say wind energy. It's clean, free and most readily available renewable energy source. As a clean fuel source, the usage of wind energy produces a significant reduction in air pollution and is available in abundant supply.[5] Most notably, this form of power is one of the lowest-priced, renewable energy technologies available today, costing users only four to six cents per kilowatt-hour.[5] Although, wind energy might not suitable for all data centers based on location, weather and capacity. 
 
 
 
@@ -41,10 +39,14 @@ Renewal energy, also called future enegry. It derives from earth’s natural res
 
 
 
-Reference: [1]https://www.electricitylocal.com/states/illinois/northlake/
-           [2]https://baxtel.com/data-center/microsoft-chicago-northlake
-           [3]https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
-           [4]https://www.telehouse.com/2017/01/any-way-the-wind-blows/
+
+
+Reference: [1] http://mha.us.com/project/northlake-data-center-for-microsoft-new-data-center/ 
+           [2]https://www.electricitylocal.com/states/illinois/northlake/
+           [3]https://baxtel.com/data-center/microsoft-chicago-northlake
+           [4]https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
+           [5]https://www.telehouse.com/2017/01/any-way-the-wind-blows/
+           
 
 
 
