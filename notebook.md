@@ -11,6 +11,7 @@ the last activities first (e.g. in reverse cronological order by week)
 * :+1: Data center assignment
 * :+1: Updated notebook
 * :+1: Choose chapter topic (Google Cloud)
+* :+1: Update python to 3.8 version
 * :o2: Multipass assignment
 
 # Week Mon 01/13/20 - 01/19/20
