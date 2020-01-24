@@ -7,9 +7,10 @@ the last activities first (e.g. in reverse cronological order by week)
 
 * :+1: Attend monday question meeting
 * :+1: Review data center in cloud computing book
-* :+1: Create to do list on Activity 
+* :+1: Fill out CO2 google sheet
+* :+1: Data center assignment
 * :+1: Updated notebook
-* :o2: Proposed chapter 
+* :+1: Choose chapter topic (Google Cloud)
 * :o2: Multipass assignment
 
 # Week Mon 01/13/20 - 01/19/20
