@@ -11,8 +11,7 @@
 
 **Introduction**
 
-The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.In 2009, Microsoft spent about $500 million to build a new data center in Northlake,IL to support their increasing demand of online services.Northlake data center is one of the most powerful data center developments in the U.S.'
-This data center.[1]
+The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.In 2009, Microsoft spent about $500 million to build a new data center in Northlake,IL to support their increasing demand of online services.Northlake data center is one of the most powerful data center developments in the U.S.[1]
 
 **Electricity Cost and Carbon Footprint** 
 
@@ -41,7 +40,8 @@ Renewal energy, also called future enegry. It derives from earth’s natural res
 
 
 
-Reference: [1] http://mha.us.com/project/northlake-data-center-for-microsoft-new-data-center/ 
+
+Reference: [1]http://mha.us.com/project/northlake-data-center-for-microsoft-new-data-center/ 
            [2]https://www.electricitylocal.com/states/illinois/northlake/
            [3]https://baxtel.com/data-center/microsoft-chicago-northlake
            [4]https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
