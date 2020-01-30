@@ -6,6 +6,7 @@
 * :+1: Read & Learn python 
 * :+1: Create LearnPython.py to practice and create dictionary for mycomputer(os,HDD,Memory)
 * :+1: Completed Mutipass Provider.py
+* :+1: Learn cloubmesh 
 
 
 ## Week Mon 01/20/20 - 01/26/20
