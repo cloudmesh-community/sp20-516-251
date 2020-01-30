@@ -1,9 +1,6 @@
-You will add to your notebook in bullet form for each week what you have done. 
-Please make sure you update it every week even if you have no time to work on 
-anything. You can surely spend 2 minutes to update this document. Please put 
-the last activities first (e.g. in reverse cronological order by week)
+# Notebook Shihui Jiang sp20-516-251
 
-# Week Mon 01/20/20 - 01/26/20
+## Week Mon 01/20/20 - 01/26/20
 
 * :+1: Attend monday question meeting
 * :+1: Review data center in cloud computing book
@@ -14,7 +11,7 @@ the last activities first (e.g. in reverse cronological order by week)
 * :+1: Update python to 3.8 version
 * :+1: Multipass assignment
 
-# Week Mon 01/13/20 - 01/19/20
+## Week Mon 01/13/20 - 01/19/20
 
 * :+1: Discussion with professor to catch up the first week
 * :+1: Completed bio post 
