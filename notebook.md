@@ -1,5 +1,13 @@
 # Notebook Shihui Jiang sp20-516-251
 
+## Week Mon 01/27/20 - 02/02/20
+
+* :+1: Attend weekly question meeting
+* :+1: Read & Learn python 
+* :+1: Create LearnPython.py to practice and create dictionary for mycomputer(os,HDD,Memory)
+* :+1: Completed Mutipass Provider.py
+
+
 ## Week Mon 01/20/20 - 01/26/20
 
 * :+1: Attend monday question meeting
