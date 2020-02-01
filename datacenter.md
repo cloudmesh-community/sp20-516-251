@@ -1,4 +1,3 @@
-
 # Microsoft Chicago Northlake Data Center 
 
 Shihui Jiang
