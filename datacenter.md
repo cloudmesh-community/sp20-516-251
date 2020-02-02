@@ -10,11 +10,11 @@
 
 :o2: use hashes for subsections
 
-###Introduction
+### Introduction
 
 The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.In 2009, Microsoft spent about $500 million to build a new data center in Northlake,IL to support their increasing demand of online services.Northlake data center is one of the most powerful data center developments in the U.S.
 
-###Electricity Cost and Carbon Footprint
+### Electricity Cost and Carbon Footprint
 
 The average commercial electricity rate in Northlake, IL is 4.05¢/kWh.There are three 66 MVA electrical substations that provide a total of 198 megawatts of power.
 
@@ -27,7 +27,7 @@ https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-system
 
 
 
-##Renewable Energy
+### Renewable Energy
 
 The world is facing carbon emission issues. With climate change and global warming,carbon emission reduction has become the top priority for technology giants. Microsoft has been playing a key role to reduce carbon emission. By 2030 Microsoft will be carbon negative, and by 2050 Microsoft will remove from the environment all the carbon the company has emitted either directly or by electrical consumption since it was founded in 1975.
 
