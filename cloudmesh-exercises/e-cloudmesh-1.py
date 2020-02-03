@@ -9,7 +9,7 @@ from cloudmesh.common.util import HEADING
 class Example(object):
 
     def banner_example(self):
-        banner("This is cloudmesh practice")
+        banner("This is for cloudmesh practice")
 
 
     def heading_example(self):
