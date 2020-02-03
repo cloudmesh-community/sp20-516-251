@@ -8,7 +8,7 @@
 ![Chicago-outside-1000](https://user-images.githubusercontent.com/42449780/73015806-b8c85600-3dea-11ea-9cda-f01e1f39d847.jpg)
 
 
-:o2: use hashes for subsections
+:o1: use hashes for subsections
 
 ### Introduction
 
@@ -42,7 +42,7 @@ Renewal energy, also called future enegry. It derives from earth’s natural res
 
 
 
-:o2: references dont use brackets
+:1: references dont use brackets
 
 Reference: 
            http://mha.us.com/project/northlake-data-center-for-microsoft-new-data-center/ 

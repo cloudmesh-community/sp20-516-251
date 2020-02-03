@@ -29,7 +29,7 @@ class Provider:
 
 
 if __name__ == '__main__':
-    instance_name = "testinstance1"
+    instance_name = "testinstance2"
     p = Provider()
     p.list_image()
     p.launch_instance(instance_name)
