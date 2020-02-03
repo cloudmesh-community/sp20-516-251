@@ -33,7 +33,7 @@ The world is facing carbon emission issues. With climate change and global warmi
 
 :o2: all perids are wrong
 
-Renewal energy, also called future enegry. It derives from earth’s natural resources, such as wind, ocean,etc. Which energy is the best replacement for data centers to reduce carbon emission? I would say wind energy. It's clean, free and most readily available renewable energy source. As a clean fuel source, the usage of wind energy produces a significant reduction in air pollution and is available in abundant supply. Most notably, this form of power is one of the lowest-priced, renewable energy technologies available today, costing users only four to six cents per kilowatt-hour.[5] Although, wind energy might not suitable for all data centers based on location, weather and capacity. 
+Renewal energy, also called future enegry. It derives from earth’s natural resources, such as wind, ocean,etc. Which energy is the best replacement for data centers to reduce carbon emission? I would say wind energy. It's clean, free and most readily available renewable energy source. As a clean fuel source, the usage of wind energy produces a significant reduction in air pollution and is available in abundant supply. Most notably, this form of power is one of the lowest-priced, renewable energy technologies available today, costing users only four to six cents per kilowatt-hour.Although, wind energy might not suitable for all data centers based on location, weather and capacity. 
 
 
 
