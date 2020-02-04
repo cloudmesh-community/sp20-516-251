@@ -1,5 +1,9 @@
-
 ## Microsoft Chicago Northlake Data Center 
+
+:o2: my corrections have been overwritten you are not using git correctly
+
+:o2: please learn markdown you have, special education is required
+
 ##### Author: Shihui Jiang
 
 
