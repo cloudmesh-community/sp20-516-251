@@ -1,10 +1,9 @@
-## Microsoft Chicago Northlake Data Center 
+# Microsoft Chicago Northlake Data Center,Sp20-516-251, Shihui Jiang
 
 :o2: my corrections have been overwritten you are not using git correctly
 
 :o2: please learn markdown you have, special education is required
 
-##### Author: Shihui Jiang
 
 
 
