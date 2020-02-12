@@ -1,11 +1,10 @@
-# Microsoft Chicago Northlake Data Center,Sp20-516-251, Shihui Jiang
+# Datacenter: sp20-516-251, Shihui Jiang
+
+## Microsoft Chicago Northlake Data Center
 
 :o2: my corrections have been overwritten you are not using git correctly
 
 :o2: please learn markdown you have, special education is required
-
-
-
 
 
 ![](images/datacenter.jpg){#fig:Microsoft-Data-Denter}
@@ -15,7 +14,12 @@
 
 ### Introduction
 
-The company has engineered every inch of the 707,244-square-foot facility for maximum efficiency.In 2009, Microsoft spent about $500 million to build a new data center in Northlake,IL to support their increasing demand of online services.Northlake data center is one of the most powerful data center developments in the U.S[@sp-20-251-NorthLakeDataCenter].
+The company has engineered every inch of the 707,244-square-foot
+facility for maximum efficiency.In 2009, Microsoft spent about $500
+million to build a new data center in Northlake,IL to support their
+increasing demand of online services.Northlake data center is one of the
+most powerful data center developments in the
+U.S[@sp-20-251-NorthLakeDataCenter].
 
 ### Electricity Cost and Carbon Footprint
 
@@ -32,20 +36,28 @@ https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-system
 
 ### Renewable Energy
 
-The world is facing carbon emission issues. With climate change and global warming,carbon emission reduction has become the top priority for technology giants. Microsoft has been playing a key role to reduce carbon emission. By 2030 Microsoft will be carbon negative, and by 2050 Microsoft will remove from the environment all the carbon the company has emitted either directly or by electrical consumption since it was founded in 1975[@sp-20-251-Carbonnegative].
-
-:o2: all perids are wrong
-
-Renewal energy, also called future enegry. It derives from earth’s natural resources, such as wind, ocean,etc. Which energy is the best replacement for data centers to reduce carbon emission? I would say wind energy. It's clean, free and most readily available renewable energy source. As a clean fuel source, the usage of wind energy produces a significant reduction in air pollution and is available in abundant supply. Most notably, this form of power is one of the lowest-priced, renewable energy technologies available today, costing users only four to six cents per kilowatt-hour[@sp-20-251-WindEnergy].Although, wind energy might not suitable for all data centers based on location, weather and capacity. 
-
-
-
-
+The world is facing carbon emission issues. With climate change and
+global warming,carbon emission reduction has become the top priority for
+technology giants. Microsoft has been playing a key role to reduce
+carbon emission. By 2030 Microsoft will be carbon negative, and by 2050
+Microsoft will remove from the environment all the carbon the company
+has emitted either directly or by electrical consumption since it was
+founded in 1975[@sp-20-251-Carbonnegative].
 
 
+Renewal energy, also called future enegry. It derives from earth’s
+natural resources, such as wind, ocean,etc. Which energy is the best
+replacement for data centers to reduce carbon emission? I would say wind
+energy. It's clean, free and most readily available renewable energy
+source. As a clean fuel source, the usage of wind energy produces a
+significant reduction in air pollution and is available in abundant
+supply. Most notably, this form of power is one of the lowest-priced,
+renewable energy technologies available today, costing users only four
+to six cents per kilowatt-hour[@sp-20-251-WindEnergy]. Although, wind
+energy might not suitable for all data centers based on location,
+weather and capacity.
 
 
-:o2: references dont use brackets
 
 
            
