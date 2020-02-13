@@ -7,7 +7,7 @@
 
 Natural language processing(NPL) is the combination of machine learning and
 linguistics. It has become one of the most popular tool and has been used in
-all areas of our life.  Natural language uses machine learning to reveal the
+all areas of our life[sp-20-251-NPLGoogleCloud].  Natural language uses machine learning to reveal the
 structure and meaning of text.You can extract information about people
 places, and events, and better understand social media sentiment and customer
 conversations. Natural language enables your to analyze text and also
