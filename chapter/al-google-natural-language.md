@@ -13,6 +13,7 @@ places, and events, and better understand social media sentiment and customer
 conversations. Natural language enables your to analyze text and also
 integrate it with your document storage on Cloud Storage.
 
+![](images/natural_language_method.jpg){#fig:Google-Cloud-Natural-Language-Method}
 
 ### Services
 
@@ -46,22 +47,69 @@ Natual Language API is an easy to use interface to a set of powerful NLP
 
 ### Natural Language Method 
 
-1. Syntax Analysis 
-2. Sentiment Analysis
-3. Entity Analysis
+1. Syntax Analysis: Extract tokens and sentences
+2. Sentiment Analysis: Understand the overall sentiment expressed in a block of text
+3. Entity Analysis: Identify entities such as person,location,events,products,etc
+4. Entity Sentiment Analysis: predicts the sentiment expressed about individual
+entity in the text
+5. Text Classification:structure textual data 
 
-with `analyzeEntities`, the API can extract entities (like people, places
-, and events) from text. Let's use following sentence as example: 
+Following Example shows how to use `analyzeEntities` to extract 
+information from a text. 
 
-Indiana University Bloomington is a public research university in Bloomington
+>Indiana University Bloomington is a public research university in Bloomington
 , Indiana.It is the flagship institution of the Indiana University system and
-, with over 40,000 students, its largest university(Wikipedia)
+, with over 40,000 students, its largest university
 
-4. Entity Sentiment Analysis
-5. Text Classification 
+Request 
+
+~~~
+curl "https://language.googleapis.com/v1/documents:analyzeEntities?key=${API_Key}" -s -X POST -H "Content-Type:application/json" --data-binary @entityanalysisexample.json
+~~~
+
+Response
+
+~~~
+{
+  "entities": [
+    {
+      "name": "Indiana University Bloomington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01qrb2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Indiana_University_Bloomington"
+      },
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana University Bloomington",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "research university",
+            "beginOffset": 43
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
+
+~~~
+
 
 
 ### Cost of Google Natual Language API 
 
-### Summary 
+![](images/natural_language_service_cost.jpg){#fig:Google-Cloud-Natural-Language-API-Service-Cost}
+
+
+
+
 
