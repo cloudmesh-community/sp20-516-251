@@ -1,5 +1,15 @@
 # Notebook Shihui Jiang sp20-516-251
 
+## Week Mon 02/03/20 - 02/09/20
+
+* :+1: Attend weekly question meeting
+* :+1: Succesfully log in Chameleon
+* :+1: Finalized Chapter
+* :+1: Update data center reference and completed
+* :+1: Cloudmesh multipass function(list and get) 
+
+
+
 ## Week Mon 01/27/20 - 02/02/20
 
 * :+1: Attend weekly question meeting
@@ -28,5 +38,6 @@
 * :+1: Read all post on Piazza 
 * :+1: Review lecture notebook 
 * :+1: Download Required tools and set up account
+
 
 
