@@ -13,7 +13,7 @@ places, and events, and better understand social media sentiment and customer
 conversations. Natural language enables your to analyze text and also
 integrate it with your document storage on Cloud Storage.
 
-![](images/natural_language_method.jpg){#fig:Google-Cloud-Natural-Language-Method}
+![](chapterimages/natural_language_method.jpg){#fig:Google-Cloud-Natural-Language-Method}
 
 ### Services
 
@@ -107,7 +107,7 @@ Response
 
 ### Cost of Google Natual Language API 
 
-![](images/natural_language_service_cost.jpg){#fig:Google-Cloud-Natural-Language-API-Service-Cost}
+![](chapterimages/natural_language_service_cost.jpg){#fig:Google-Cloud-Natural-Language-API-Service-Cost}
 
 
 
