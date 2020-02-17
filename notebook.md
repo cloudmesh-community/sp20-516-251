@@ -1,5 +1,10 @@
 # Notebook Shihui Jiang sp20-516-251
 
+## Week Mon 02/10/20 - 02/16/20
+* :+1: Learn Chameleon
+* :+1: Launching an Instance
+* :+1: Accessing my instance
+
 ## Week Mon 02/03/20 - 02/09/20
 
 * :+1: Attend weekly question meeting
