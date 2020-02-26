@@ -2,12 +2,12 @@
 
 ## Microsoft Chicago Northlake Data Center
 
-:o2: my corrections have been overwritten you are not using git correctly
 
-:o2: please learn markdown you have, special education is required
+:o2: use bibtex in cattion
 
+:o2: space before citation
 
-![](images/datacenter.jpg){#fig:Microsoft-Data-Denter}
+![:o2: caption missing bibtex missing](images/datacenter.jpg){#fig:Microsoft-Data-Denter}
 
 
 :o2: use hashes for subsections
