@@ -1,5 +1,17 @@
 # Notebook Shihui Jiang sp20-516-251
 
+## Week Mon 02/24/20 - 03/01/20
+* :+1: Verify AWS Provider
+* :+1: Create mongoDB collection
+* :+1: Implement copy action
+
+
+## Week Mon 02/17/20 - 02/23/20
+* :+1: Read cloudmesh-storage documentation
+* :+1: Set up AWS S2 account
+* :+1: Test 
+
+
 ## Week Mon 02/10/20 - 02/16/20
 * :+1: Learn Chameleon
 * :+1: Launching an Instance
