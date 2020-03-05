@@ -7,7 +7,10 @@
 
 :o2: space before citation
 
-![:o2: caption missing bibtex missing](images/datacenter.jpg){#fig:Microsoft-Data-Denter}
+![Microsoft Chicago Northlake Data Center [@sp-20-251
+-MicrosoftChicagoNorthlake]](images/datacenter.jpg){#fig
+:Microsoft-Data
+-Denter}
 
 
 :o2: use hashes for subsections
@@ -19,11 +22,13 @@ facility for maximum efficiency.In 2009, Microsoft spent about $500
 million to build a new data center in Northlake,IL to support their
 increasing demand of online services.Northlake data center is one of the
 most powerful data center developments in the
-U.S[@sp-20-251-NorthLakeDataCenter].
+U.S [@sp-20-251-NorthLakeDataCenter].
 
 ### Electricity Cost and Carbon Footprint
 
-The average commercial electricity rate in Northlake, IL is 4.05¢/kWh[@sp-20-251-ElectricityLocal].There are three 66 MVA electrical substations that provide a total of 198 megawatts of power[@sp-20-251-MicrosoftChicagoNorthlake].
+The average commercial electricity rate in Northlake, IL is 4.05¢/kWh [@sp-20
+-251-ElectricityLocal].There are three 66 MVA electrical substations that
+ provide a total of 198 megawatts of power [@sp-20-251-MicrosoftChicagoNorthlake].
 
 198 megawatts * 1000 = 198000 kilowatts
 
@@ -42,7 +47,7 @@ technology giants. Microsoft has been playing a key role to reduce
 carbon emission. By 2030 Microsoft will be carbon negative, and by 2050
 Microsoft will remove from the environment all the carbon the company
 has emitted either directly or by electrical consumption since it was
-founded in 1975[@sp-20-251-Carbonnegative].
+founded in 1975 [@sp-20-251-Carbonnegative].
 
 
 Renewal energy, also called future enegry. It derives from earth’s
@@ -53,7 +58,7 @@ source. As a clean fuel source, the usage of wind energy produces a
 significant reduction in air pollution and is available in abundant
 supply. Most notably, this form of power is one of the lowest-priced,
 renewable energy technologies available today, costing users only four
-to six cents per kilowatt-hour[@sp-20-251-WindEnergy]. Although, wind
+to six cents per kilowatt-hour [@sp-20-251-WindEnergy]. Although, wind
 energy might not suitable for all data centers based on location,
 weather and capacity.
 
